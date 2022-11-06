@@ -1,0 +1,14 @@
+import letscalc.*;
+
+public class Packages
+{
+	public static void main(String[] args)
+	{
+		Operations o = new Operations();
+		
+		o.add(6,3);
+		o.sub(6,3);
+		o.mult(6,3);
+		o.div(6,3);
+	}
+}
