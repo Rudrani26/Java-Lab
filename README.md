@@ -1,2 +1,2 @@
 # Java-Lab
-Java Programs of IT Sem 2
+Java Programs of IT Sem 3
